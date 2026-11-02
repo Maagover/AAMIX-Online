@@ -1,0 +1,12 @@
+# Archivos generados y credenciales locales
+.godot/
+.import/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Motor distribuido en el paquete completo de Windows
+/motor/
